@@ -1,4 +1,4 @@
-#Marvel_Brute_forcer is for Brute Froce wordpress login 
+#Marvel_Brute_forcer is to Brute Froce wordpress login 
 
 #I implemented Cluster Bomb algorithm in Tony_Stark.py
 
